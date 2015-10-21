@@ -5,6 +5,8 @@ DATASETS:
 ~~~
 Texture Database - "A Sparse Texture Representation Using Local Affine Regions"
 http://www-cvr.ai.uiuc.edu/ponce_grp/data/
+
+http://www.cse.oulu.fi/CMV/ImageData
 ~~~
 
 TODO:
