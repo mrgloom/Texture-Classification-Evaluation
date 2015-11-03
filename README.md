@@ -15,4 +15,6 @@ http://www.robots.ox.ac.uk/~vgg/research/texclass/with.html
 http://www.cs.bilkent.edu.tr/~bilmdg/bilvideo-7/Software.html
 
 https://github.com/bikz05/texture-matching
+
+https://github.com/rohitgirdhar/TextureSegmentationLBP
 ~~~
