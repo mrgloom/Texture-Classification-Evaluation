@@ -17,4 +17,8 @@ http://www.cs.bilkent.edu.tr/~bilmdg/bilvideo-7/Software.html
 https://github.com/bikz05/texture-matching
 
 https://github.com/rohitgirdhar/TextureSegmentationLBP
+
+Deep learning:
+
+https://github.com/leongatys/DeepTextures
 ~~~
